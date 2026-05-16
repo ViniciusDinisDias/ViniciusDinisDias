@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Vinicius Oliveira
 
 🎓 **Estudante de Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas**  
-💻 **Futuro Desenvolvedor Front-End**  
+💻 **Futuro Desenvolvedor FullStack**  
 🚀 Em constante evolução e busca por novos conhecimentos e oportunidades
 
 ---
